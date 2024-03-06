@@ -9,12 +9,12 @@
 
 ## Achievements
 
-- Significantly reduced analysis time from several minutes to seconds.
-- Provided accurate and reliable stress-strain analysis results.
-- Eliminated the possibility of human error in manual calculations.
-- Improved efficiency and accuracy in determining critical planes and stresses.
-- Streamlined the process of stress-strain analysis by automating calculations.
-- Validated the results by comparing them with manual calculations.
+- Reduced analysis time by 93.33%, from 30 minutes to 2 minutes
+- Provided accurate and reliable stress-strain analysis results
+- Eliminated the possibility of human error in manual calculations
+- Improved efficiency and accuracy in determining critical planes and stresses
+- Streamlined the process of stress-strain analysis by automating calculations
+- Validated the results by comparing them with manual calculations
 
 ## Conclusion
 
